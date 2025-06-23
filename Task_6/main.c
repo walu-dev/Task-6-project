@@ -5,12 +5,17 @@
 #include "GrossProfit.h"
 #include "ROI.h"
 #include "MonthlyLoan.h"
+#include "SimpleIntrest.h"
+#include "BreakEven.h"
+
 int main()
 {
     //CalculateTotalSalesPrice();
     //CalculateSalary();
     //CalculateGrossProfit();
     //CalculateRoi();
-    CalculateMonthlyLoan();
+    //CalculateMonthlyLoan();
+   // CalculateSimpleIntrest();
+   CalculateBreakEven();
     return 0;
 }

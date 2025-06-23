@@ -5,7 +5,7 @@
 
 1750678328 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\totalsalesprice.h
 
-1750684950 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\main.c
+1750686131 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\main.c
 	<stdio.h>
 	<stdlib.h>
 	"TotalSalesPrice.h"
@@ -13,6 +13,8 @@
 	"GrossProfit.h"
 	"ROI.h"
 	"MonthlyLoan.h"
+	"SimpleIntrest.h"
+	"BreakEven.h"
 
 1750679615 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\salaryaftertax.h
 
@@ -38,4 +40,16 @@
 	"MonthlyLoan.h"
 
 1750684009 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\monthlyloan.h
+
+1750685251 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\simpleintrest.h
+
+1750685606 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\simpleintrest.c
+	<stdio.h>
+	"SimpleIntrest.h"
+
+1750691880 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\breakeven.c
+	<stdio.h>
+	"BreakEven.h"
+
+1750685888 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\breakeven.h
 
