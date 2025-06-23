@@ -5,7 +5,15 @@
 
 1750678328 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\totalsalesprice.h
 
-1750678848 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\main.c
+1750680010 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\main.c
 	<stdio.h>
 	<stdlib.h>
+	"TotalSalesPrice.h"
+	"SalaryAfterTax.h"
+
+1750679615 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\salaryaftertax.h
+
+1750680010 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\salaryaftertax.c
+	<stdio.h>
+	"SalaryAfterTax.h"
 
