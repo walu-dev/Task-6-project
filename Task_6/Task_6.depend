@@ -5,19 +5,10 @@
 
 1750678328 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\totalsalesprice.h
 
-1750693908 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\main.c
+1750696386 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\main.c
 	<stdio.h>
 	<stdlib.h>
-	"TotalSalesPrice.h"
-	"SalaryAfterTax.h"
-	"GrossProfit.h"
-	"ROI.h"
-	"MonthlyLoan.h"
-	"SimpleIntrest.h"
-	"BreakEven.h"
-	"FlatIntrest.h"
-	"ProfitMargin.h"
-	"Depreciation.h"
+	"DiscountedPrice.h"
 
 1750679615 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\salaryaftertax.h
 
@@ -69,4 +60,14 @@
 1750692983 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\profitmargin.h
 
 1750693563 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\depreciation.h
+
+1750693914 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\depreciation.c
+	<stdio.h>
+	"Depreciation.h"
+
+1750696268 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\discountedprice.c
+	<stdio.h>
+	"DiscountedPrice.h"
+
+1750695936 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\discountedprice.h
 
