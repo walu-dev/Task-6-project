@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    CalculateTotalSalesPrice();
     return 0;
 }

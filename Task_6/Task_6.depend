@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1750678808 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\totalsalesprice.c
+	<stdio.h>
+	"TotalSalesPrice.h"
+
+1750678328 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\totalsalesprice.h
+
+1750678848 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\main.c
+	<stdio.h>
+	<stdlib.h>
+
