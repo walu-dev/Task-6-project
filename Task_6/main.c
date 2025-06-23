@@ -7,6 +7,7 @@
 #include "MonthlyLoan.h"
 #include "SimpleIntrest.h"
 #include "BreakEven.h"
+#include "FlatIntrest.h"
 
 int main()
 {
@@ -16,6 +17,7 @@ int main()
     //CalculateRoi();
     //CalculateMonthlyLoan();
    // CalculateSimpleIntrest();
-   CalculateBreakEven();
+    //CalculateBreakEven();
+    CalculateFlatIntrest();
     return 0;
 }
