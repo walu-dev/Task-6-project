@@ -8,6 +8,7 @@
 #include "SimpleIntrest.h"
 #include "BreakEven.h"
 #include "FlatIntrest.h"
+#include "ProfitMargin.h"
 
 int main()
 {
@@ -18,6 +19,7 @@ int main()
     //CalculateMonthlyLoan();
    // CalculateSimpleIntrest();
     //CalculateBreakEven();
-    CalculateFlatIntrest();
+    //CalculateFlatIntrest();
+    CalculateProfitMargin();
     return 0;
 }
