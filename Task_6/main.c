@@ -2,9 +2,11 @@
 #include <stdlib.h>
 #include "TotalSalesPrice.h"
 #include "SalaryAfterTax.h"
+#include "GrossProfit.h"
 int main()
 {
     //CalculateTotalSalesPrice();
-    CalculateSalary();
+    //CalculateSalary();
+    CalculateGrossProfit();
     return 0;
 }
