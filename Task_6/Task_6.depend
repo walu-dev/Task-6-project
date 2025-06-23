@@ -5,7 +5,7 @@
 
 1750678328 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\totalsalesprice.h
 
-1750692649 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\main.c
+1750693908 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\main.c
 	<stdio.h>
 	<stdlib.h>
 	"TotalSalesPrice.h"
@@ -16,6 +16,8 @@
 	"SimpleIntrest.h"
 	"BreakEven.h"
 	"FlatIntrest.h"
+	"ProfitMargin.h"
+	"Depreciation.h"
 
 1750679615 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\salaryaftertax.h
 
@@ -65,4 +67,6 @@
 	"ProfitMargin.h"
 
 1750692983 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\profitmargin.h
+
+1750693563 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\depreciation.h
 

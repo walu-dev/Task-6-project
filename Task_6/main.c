@@ -9,6 +9,7 @@
 #include "BreakEven.h"
 #include "FlatIntrest.h"
 #include "ProfitMargin.h"
+#include "Depreciation.h"
 
 int main()
 {
@@ -20,6 +21,7 @@ int main()
    // CalculateSimpleIntrest();
     //CalculateBreakEven();
     //CalculateFlatIntrest();
-    CalculateProfitMargin();
+    //CalculateProfitMargin();
+    CalculateDepreciation();
     return 0;
 }
