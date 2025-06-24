@@ -9,8 +9,8 @@
 
 int main()
 {
-    double SellingPrice = 1200.0;
-    double CostPrice = 1000.0;
-    calculateProfitOrLoss(SellingPrice,CostPrice);
+    double originalPrice = 1000.0;
+    double discountPercentage = 25;
+    CalculateDiscount(originalPrice, discountPercentage);
     return 0;
 }
