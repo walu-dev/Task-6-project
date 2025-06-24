@@ -31,6 +31,58 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="BonusSalary.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="BonusSalary.h" />
+		<Unit filename="BreakEven.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="BreakEven.h" />
+		<Unit filename="Depreciation.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Depreciation.h" />
+		<Unit filename="DiscountedPrice.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DiscountedPrice.h" />
+		<Unit filename="FlatIntrest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="FlatIntrest.h" />
+		<Unit filename="GrossProfit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="GrossProfit.h" />
+		<Unit filename="MonthlyLoan.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MonthlyLoan.h" />
+		<Unit filename="ProfitMargin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ProfitMargin.h" />
+		<Unit filename="ROI.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ROI.h" />
+		<Unit filename="SalaryAfterTax.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SalaryAfterTax.h" />
+		<Unit filename="SimpleIntrest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SimpleIntrest.h" />
+		<Unit filename="TaxAmount.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TaxAmount.h" />
+		<Unit filename="TotalSalesPrice.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TotalSalesPrice.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

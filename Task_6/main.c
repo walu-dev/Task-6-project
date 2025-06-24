@@ -3,13 +3,14 @@
 #include "DiscountedPrice.h"
 #include "TaxAmount.h"
 #include "BonusSalary.h"
+#include "ProfitOrLoss.h"
 
-double Price, rate, TaxRate;
+
 
 int main()
 {
-    double BaseSalary = 50000;
-    double Percentage = 10;
-    CalculateBonusSalary(BaseSalary, Percentage);
+    double SellingPrice = 1200.0;
+    double CostPrice = 1000.0;
+    calculateProfitOrLoss(SellingPrice,CostPrice);
     return 0;
 }
