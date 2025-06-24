@@ -6,14 +6,14 @@
 #include "ProfitOrLoss.h"
 #include "DoubleInvestment.h"
 #include "TotalExpense.h"
+#include "PercentageSalary.h"
 
 
 
 int main()
 {
-    double itemsSold[] = {10, 20, 15, 30};       // Number of items sold
-    double itemPrices[] = {50.0, 30.0, 20.0, 40.0}; // Prices of items
-    double itemCount = 4; // Number of items
-    CalculateTotalExpense(itemsSold, itemPrices, itemCount);
+    double salary = 4500000; // Example salary
+
+    CalculatePercentageSalary(salary);
     return 0;
 }
