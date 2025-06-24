@@ -5,7 +5,7 @@
 
 1750678328 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\totalsalesprice.h
 
-1750768214 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\main.c
+1750768748 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\main.c
 	<stdio.h>
 	<stdlib.h>
 	"DiscountedPrice.h"
@@ -15,6 +15,7 @@
 	"DoubleInvestment.h"
 	"TotalExpense.h"
 	"PercentageSalary.h"
+	"OverDueFees.h"
 
 1750679615 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\salaryaftertax.h
 
@@ -124,4 +125,10 @@
 	"OverDueFees.h"
 
 1750768560 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\overduefees.h
+
+1750769212 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\maxdiscount.c
+	<stdio.h>
+	"MaxDiscount.h"
+
+1750769083 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\maxdiscount.h
 

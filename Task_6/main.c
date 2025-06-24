@@ -7,14 +7,16 @@
 #include "DoubleInvestment.h"
 #include "TotalExpense.h"
 #include "PercentageSalary.h"
+#include "OverDueFees.h"
+#include "MaxDiscount.h"
 
 
 
 int main()
 {
-    double daysOverdue = 5;
-    double dailyFee = 50.0;
+    double originalPrice = 5000.0;
+    double discountPercentage = 25;
 
-    CalculateOverDueFees(daysOverdue, dailyFee);
+    CalculatetMaximumDiscount(originalPrice, discountPercentage);
     return 0;
 }
