@@ -12,8 +12,9 @@
 
 int main()
 {
-    double salary = 4500000; // Example salary
+    double daysOverdue = 5;
+    double dailyFee = 50.0;
 
-    CalculatePercentageSalary(salary);
+    CalculateOverDueFees(daysOverdue, dailyFee);
     return 0;
 }

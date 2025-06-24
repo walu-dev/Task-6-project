@@ -5,7 +5,7 @@
 
 1750678328 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\totalsalesprice.h
 
-1750766339 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\main.c
+1750768214 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\main.c
 	<stdio.h>
 	<stdlib.h>
 	"DiscountedPrice.h"
@@ -14,6 +14,7 @@
 	"ProfitOrLoss.h"
 	"DoubleInvestment.h"
 	"TotalExpense.h"
+	"PercentageSalary.h"
 
 1750679615 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\salaryaftertax.h
 
@@ -112,9 +113,15 @@
 
 1750765327 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\totalexpense.h
 
-1750768114 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\percentagesalary.c
+1750768214 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\percentagesalary.c
 	<stdio.h>
 	"PercentageSalary.h"
 
-1750768040 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\percentagesalary.h
+1750768214 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\percentagesalary.h
+
+1750768625 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\overduefees.c
+	<stdio.h>
+	"OverDueFees.h"
+
+1750768560 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\overduefees.h
 
