@@ -5,7 +5,7 @@
 
 1750678328 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\totalsalesprice.h
 
-1750761553 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\main.c
+1750762132 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\main.c
 	<stdio.h>
 	<stdlib.h>
 	"DiscountedPrice.h"
@@ -97,4 +97,10 @@
 	"Discount.h"
 
 1750761961 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\discount.h
+
+1750763605 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\doubleinvestment.c
+	<stdio.h>
+	"DoubleInvestment.h"
+
+1750762697 c:\users\hp\desktop\jonathan docu\comp office\c program\task-6-project\task_6\doubleinvestment.h
 

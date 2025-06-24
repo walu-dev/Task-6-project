@@ -4,13 +4,13 @@
 #include "TaxAmount.h"
 #include "BonusSalary.h"
 #include "ProfitOrLoss.h"
+#include "DoubleInvestment.h"
 
 
 
 int main()
 {
-    double originalPrice = 1000.0;
-    double discountPercentage = 25;
-    CalculateDiscount(originalPrice, discountPercentage);
+    double annualRateOfReturn = 6.0; // Example annual rate of return (in percentage)
+    CalculateDoubleInvestment(annualRateOfReturn);
     return 0;
 }
